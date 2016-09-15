@@ -20,6 +20,6 @@ function go (n, direction) {
  }
 }
 go (7,down);
-go (5,up);
+go (5,right);
 go (2,up);
 go (2,right);
